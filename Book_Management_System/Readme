@@ -1,0 +1,17 @@
+/**
+*项目名称：图书管理系统CS（swing）
+*开发环境：JDK1.8 + Mysql5.7
+*开发IDE：IntelliJ IDEA Community 2018
+*日期：2018/7/12
+*开发人员：赵鹏飞
+**/
+
+说明：
+1.新建数据库，数据库名:book_management
+	注：可在src\com\zhao\Information.class类中修改。
+
+2.加载根目录下的数据库导出文件book_management.sql
+
+3.导入Java项目
+
+4.在src\com\zhao\Run.class类中运行
