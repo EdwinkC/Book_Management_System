@@ -8,7 +8,7 @@ Javase swing + mysql 小项目
 ![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/1.JPG)
 
 用户注册
-![image}(https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/user_register.JPG)
+![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/user_register.JPG)
 
 更改密码
 ![image](https://github.com/EdwinkC/Book_Management_System/blob/master/Book_Management_System/book_management_system/img/update_password.JPG)
